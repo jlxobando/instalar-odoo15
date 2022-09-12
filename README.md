@@ -1,7 +1,4 @@
-# Instalación de Odoo 15 CE
-
-https://m.do.co/c/7f5c3af8d6bb
-
+# Instalación de Odoo 15 
 
 ## 1- Actualizamos el sistema
 
