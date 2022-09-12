@@ -1,8 +1,5 @@
 # Instalación de Odoo 15 CE
 
-![Alt text](https://github.com/falconsoft3d/instalar-odoo-10/blob/master/img/logo-ynext.png?raw=true "Ynext")
-
-## 0- Creamos una cuenta en Digital Ocean
 https://m.do.co/c/7f5c3af8d6bb
 
 
